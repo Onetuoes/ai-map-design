@@ -73,7 +73,7 @@ Visit http://localhost:5173 to view the app.
 
 
 
-2. Next, click the `Choose File` button to select your map design material (it must be an image). For this example, I have chosen Van Gogh’s "Starry Night".  
+2. Next, click the `Choose File` button to select your map design material (it must be an image). For this example, I have chosen Van Gogh's "Starry Night".  
   
 ![image upload](https://github.com/Onetuoes/ai-map-design/blob/main/images/image%20upload.png)
 
