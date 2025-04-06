@@ -42,22 +42,26 @@ cd ai-map-design
 ```
 
 2. **Install dependencies**
-
+   
+Install npm.  
 ```bash
 npm install
 ```
 
 3. **Set up your API key**
-```bash
-VITE_OPENAI_API_KEY=your_openai_api_key_here
-```
+  
+Create your own .env file using your GPT API Key. For better performance, GPT-4o-turbo is recommended, while GPT-4o-mini is a more cost-effective option.  
 
 4. **Start the development server**
+
+Change to the directory where your repository is.   
 ```bash
 npm run dev
 ```
 
 5. **Open your browser**
-```bash
-Visit http://localhost:5173 to view the app.
-```
+
+Visit http://localhost:5173 to view the app.  
+
+## Example
+
