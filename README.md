@@ -65,24 +65,55 @@ Visit http://localhost:5173 to view the app.
 
 ## Example
 
-After opening the link, you will see the initial interface.  
+
+
+1. After opening the link, you will see the initial interface.  
+  
 ![initial interface](https://github.com/Onetuoes/ai-map-design/blob/main/images/initial%20interface.png)
 
-Next, click the image upload button to select your map design material (it must be an image). For this example, I have chosen Van Gogh’s "Starry Night".  
+
+
+2. Next, click the `Choose File` button to select your map design material (it must be an image). For this example, I have chosen Van Gogh’s "Starry Night".  
+  
 ![image upload](https://github.com/Onetuoes/ai-map-design/blob/main/images/image%20upload.png)
 
-Once the image is uploaded, click the "Update Map Style" button. The map will be rendered in real-time and will be displayed in a few seconds.  
+
+
+3. Once the image is uploaded, click the `Update Map Style` button. The map will be rendered in real-time and will be displayed in a few seconds.  
+  
 ![map initialization](https://github.com/Onetuoes/ai-map-design/blob/main/images/map%20initialization.png)
 
-After the map is rendered, you can zoom in or out to adjust the view as needed. The detailed structure of buildings will appear as you zoom in to a certain scale. Additionally, you can move the selected area to change the focus of the map.     
+
+
+4. After the map is rendered, you can zoom in or out to adjust the view as needed. The detailed structure of buildings will appear as you zoom in to a certain scale. Additionally, you can move the selected area to change the focus of the map.  
+  
 ![zoom in](https://github.com/Onetuoes/ai-map-design/blob/main/images/zoom%20in.png)
 
-If you do not like the map style, just click the "Change Map Style" button until you get a satisfactory one.  
+
+
+5. If you do not like the map style, just click the `Change Map Style` button until you get a satisfactory one.  
+  
 ![change map style](https://github.com/Onetuoes/ai-map-design/blob/main/images/change%20map%20style.png)
 
-After a preliminary map has been designed, you can click the buttons to make more detailed improvements. For example, here is the map after increasing major road width.  
+
+
+6. After a preliminary map has been designed, you can click the buttons to make more detailed improvements.  
+   For example, here is the map after increasing major road width.  
+  
 ![broader road](https://github.com/Onetuoes/ai-map-design/blob/main/images/broader%20road.png)
 
-Here is the map after decreasing major road width.  
-![narrower road](https://github.com/Onetuoes/ai-map-design/blob/main/images/narrower%20road.png)
 
+  
+   Here is the map after decreasing major road width.  
+  
+![narrower road](https://github.com/Onetuoes/ai-map-design/blob/main/images/narrower%20road.png)
+  
+
+## License
+
+This project is licensed under the MIT License.  
+  
+## Contact
+
+Feel free to reach out to me at qijia.wang@tum.de.  
+  
