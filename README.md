@@ -65,3 +65,6 @@ Visit http://localhost:5173 to view the app.
 
 ## Example
 
+![initial interface](images/initial interface.png)
+
+
